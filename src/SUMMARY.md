@@ -2,17 +2,6 @@
 
 [Startseite](hauptseite.md)
 [Neue Artikel](neue-artikel-erstellen.md)
-[LLM Wiki](llm-wiki.md)
-[Wissen speichern](wissen-speichern.md)
-[Urheberrecht und Duplicate Content](urheberrecht-und-duplicate-content.md)
-    - [Urheberrechtliche Prüfroutine & Skills](urheberrecht-pruefroutine-und-skills.md)
-[Wissenssysteme im Vergleich](wissenssysteme-im-vergleich.md)
-[Wiki-Programme im Vergleich](wikis-im-vergleich.md)
-[CMS im Vergleich](cms-im-vergleich.md)
-[Wie CMS mit Millionen Artikeln umgehen](cms-millionen-artikel.md)
-[Doku-Generatoren im Vergleich](doku-generatoren-im-vergleich.md)
-[Webframeworks im Vergleich](webframeworks-im-vergleich.md)
-[Ein Wissenssystem selbst bauen](wissenssystem-selbst-bauen.md)
 
 # Ahrensburg – Allgemeines
 

@@ -155,10 +155,7 @@ Wie sieht der Lebenslauf einer Rohfassung in diesem Projekt konkret aus?
 ## Verwandte Seiten
 
 - [Co-Wiki: Mensch & KI](co-wiki.md) – Das grundlegende Kooperationsmodell dieses Wikis.
-- [Urheberrecht und Duplicate Content](urheberrecht-und-duplicate-content.md) – Wie das Wiki Urheberrechte prüft (zentrale Aufgabe des Faktencheckers in der Pipeline).
-- [Wissen speichern](wissen-speichern.md) – Was einen guten Wissensartikel ausmacht und wie große Wissensmengen abgelegt, durchsucht und weitergegeben werden.
 - [Software für ein großes Wissensprojekt](software-fuer-ein-grosses-wissensprojekt.md) – Wie das Wiki technisch aufgebaut ist.
-- [Doku-Generatoren im Vergleich](doku-generatoren-im-vergleich.md) – Warum mdBook für dieses Wissensprojekt genutzt wird.
 - [Überblick](openwiki/overview.md) – Technische Übersicht über das Repository.
 
 ---

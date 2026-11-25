@@ -6,26 +6,9 @@ Dieses Wiki über Ahrensburg soll langfristig sehr groß werden – viele tausen
 Artikel, geschrieben von Menschen und künstlicher Intelligenz (KI) gemeinsam
 (siehe [Co-Wiki: Mensch & KI](co-wiki.md)). Für so ein Projekt muss man am Anfang
 eine wichtige Frage beantworten: **Mit welchem Programm sammelt und verwaltet man
-das ganze Wissen?** Welche Grundkonzepte hinter dem Speichern und Suchen stecken,
-erklärt [Wissen speichern](wissen-speichern.md).
+das ganze Wissen?**
 
-Diese Seite erklärt, worauf es dabei ankommt. Die drei folgenden Seiten
-vergleichen dann die konkreten Programme:
-
-- [Wiki-Programme im Vergleich](wikis-im-vergleich.md) – z. B. MediaWiki (das
-  Programm hinter Wikipedia), XWiki, Wiki.js, BookStack, DokuWiki.
-- [CMS im Vergleich](cms-im-vergleich.md) – Programme zum Betreiben von Websites,
-  z. B. WordPress, Drupal, TYPO3, dazu **Headless**-CMS wie Strapi und Directus
-  („headless" heißt „kopflos": das Programm verwaltet nur die Inhalte, nicht das
-  fertige Aussehen) sowie das datei-basierte Grav.
-- [Doku-Generatoren im Vergleich](doku-generatoren-im-vergleich.md) – Programme,
-  die aus einfachen Textdateien ein Buch oder eine Website bauen, z. B. mdBook
-  (das nutzt dieses Wiki), MkDocs, Docusaurus, Hugo.
-
-Für einen selbstgebauten Anwendungs-Server – wenn also ein Projekt seinen eigenen
-Internet-Dienst programmieren würde – sind die verfügbaren Programmiersprachen und
-Webframeworks zentral; ein Überblick dazu steht auf der Seite
-[Webframeworks im Vergleich](webframeworks-im-vergleich.md).
+Diese Seite erklärt, worauf es dabei ankommt.
 
 ## Kurz erklärt: Wiki, CMS, Doku-Generator
 
@@ -43,7 +26,7 @@ für zehntausende Artikel reicht, ist genau die Frage, um die es hier geht.
 
 ## Was dieses Projekt vom Programm verlangt
 
-Die folgende Liste ist der Maßstab. Jedes Programm auf den Vergleichsseiten wird
+Die folgende Liste ist der Maßstab. Jedes Programm in der Praxis wird
 an diesen Punkten gemessen.
 
 ### 1. Sehr viele Artikel verwalten
@@ -130,9 +113,7 @@ Zusammenarbeit mit KI gedacht sind. Man nennt sie **LLM-Wiki** oder **Co-Wiki**
 - Dieses Wiki folgt diesem Modell: Markdown-Dateien, KI-lesbar, mit menschlicher
   Redaktion. Nur die technischen Dokumentationsseiten im Ordner `openwiki/`
   tragen ausführliche Kopfzeilen, die Ahrensburg-Artikel selbst nicht. Details in
-  [Co-Wiki: Mensch & KI](co-wiki.md). Ausführlich werden die LLM-Grundlagen und
-  Andrej Karpathys Muster zur Wissensverwaltung auf der Seite [LLM Wiki](llm-wiki.md)
-  erklärt.
+  [Co-Wiki: Mensch & KI](co-wiki.md).
 
 ## Was ist mit „Vibe Coding"?
 
@@ -162,14 +143,9 @@ kräftig zuarbeiten – die letzte Entscheidung trifft immer ein Mensch.
   E-Mail-Adressen oder Passwörter enthalten. Zweitens eine **große, aktive
   Entwicklergemeinschaft**.
 
-Die Einzelheiten stehen auf den drei Vergleichsseiten. Wie diese Programme in
-die größere Landschaft von Wissenssystemen passen – bis hinauf zu Beständen von
-Millionen Artikeln und zur Suche nach Bedeutung –, zeigt die Seite
-[Wissenssysteme im Vergleich](wissenssysteme-im-vergleich.md).
-
 ## Fachwörter kurz erklärt
 
-Diese Begriffe tauchen auf den Vergleichsseiten immer wieder auf.
+Diese Begriffe tauchen auf dieser Seite immer wieder auf.
 
 | Wort | Was es bedeutet |
 |---|---|

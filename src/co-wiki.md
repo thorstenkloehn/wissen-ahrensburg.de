@@ -55,7 +55,7 @@ Das Wiki ist das digitale Bücherregal, in dem alles aufbewahrt wird:
 
 ## Wie funktioniert das technisch? (Einfach erklärt)
 
-- **Dateien wie am Computer (Docs-as-Code):** Das Wiki besteht aus einfachen Textdateien, die mit Programmen wie Obsidian, Quartz oder MkDocs in schicke Webseiten verwandelt werden. Diese Seite nutzt mdBook (Vergleich: [Doku-Generatoren im Vergleich](doku-generatoren-im-vergleich.md)).
+- **Dateien wie am Computer (Docs-as-Code):** Das Wiki besteht aus einfachen Textdateien, die mit Programmen wie Obsidian, Quartz oder MkDocs in schicke Webseiten verwandelt werden. Diese Seite nutzt mdBook.
 - **Universal-Stecker für KI (Model Context Protocol / MCP):** Wie ein universelles USB-Kabel, über das die KI sicher auf Dateien, Notizen und das Internet zugreifen kann.
 - **Schlaue Bedeutungssuche (Vektordatenbank & RAG):** Die KI sucht nicht nur nach genauen Wörtern, sondern versteht die Bedeutung (z. B. findet sie „Hund“, wenn du nach „Haustier mit vier Pfoten“ suchst).
 
@@ -93,9 +93,6 @@ Wie dieses Repository aufgebaut ist und wie daraus die Website wird, steht im [�
 ## Verwandte Seiten
 
 - [Neue Artikel aus Rohfassungen erstellen](neue-artikel-erstellen.md) – Der redaktionelle Prozess von der Rohfassung zur fertigen Seite.
-- [Urheberrecht und Duplicate Content](urheberrecht-und-duplicate-content.md) – Wie das Wiki fremde Quellen nutzt, ohne Urheberrecht zu verletzen.
-- [Wissen speichern](wissen-speichern.md) – Konzepte für verlässliche, durchsuchbare Wissenssammlungen.
-- [Wissenssysteme im Vergleich](wissenssysteme-im-vergleich.md) – Verschiedene Ansätze für große Wissensbestände.
 
 ---
 

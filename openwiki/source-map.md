@@ -62,9 +62,6 @@ tags:
 | `ahrensburg-nachrichten-website.md` | Ahrensburg news website topic. | Yes |
 | `co-wiki.md` | Public Co-Wiki page describing human/AI collaboration. | Yes |
 | `software-fuer-ein-grosses-wissensprojekt.md` | Comparison framing page for wiki/CMS/doc-generator choices. | Yes |
-| `wikis-im-vergleich.md` | Comparison of open wiki programs. | Yes |
-| `cms-im-vergleich.md` | Comparison of open content management systems. | Yes |
-| `doku-generatoren-im-vergleich.md` | Comparison of documentation/site generators. | Yes |
 | `datenschutz.md` | Privacy policy / Datenschutzerklärung. | Yes |
 | `impressum.md` | Legal imprint. | Yes |
 | `einkaufen-in-ahrensburg.md` | Duplicate shopping page (orphaned from main sections). | No |

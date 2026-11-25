@@ -52,7 +52,7 @@ Notizen"-Stufe aus dem [Co-Wiki-Ablauf](../.claude/skills/co-wiki/references/abl
 ## Abgeschlossene Rohfassungen
 
 - **`Ueberricht.md`** → über die volle Redaktionspipeline zu
-  [`src/urheberrecht-und-duplicate-content.md`](../src/urheberrecht-und-duplicate-content.md)
+  `src/urheberrecht-und-duplicate-content.md` (inzwischen gelöscht)
   ausgearbeitet, freigegeben, deployt (`gh-pages` `52107f5`), Rohfassung anschließend gelöscht
   (2026-09-03). Der verwertbare Inhalt steht vollständig in der `src/`-Seite; Details im
   Deploy-Log [`docs/agent-notes.md`](../docs/agent-notes.md) §1.
