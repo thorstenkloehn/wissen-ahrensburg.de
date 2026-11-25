@@ -71,7 +71,7 @@ Für größere Artikel arbeitet nicht nur eine KI, sondern ein ganzes Team aus s
 - **Der Verlinker:** Setzt passende Links zu anderen Artikeln und vergibt Schlagwörter.
 - **Der Chef vom Dienst:** Behält den Überblick, verteilt die Aufgaben und sagt „Weiter!“ oder „Bitte nochmal überarbeiten!“.
 
-Der Ablauf: Briefing → Recherche → Bauplan → Text schreiben → gemeinsame Kontrolle durch Faktenchecker und Lektor (bei Fehlern geht es zwei bis drei Runden zurück zum Schreiberling) → und zum Schluss die menschliche Freigabe (siehe [Neue Artikel aus Rohfassungen erstellen](neue-artikel-erstellen.md)).
+Der Ablauf: Briefing → Recherche → Bauplan → Text schreiben → gemeinsame Kontrolle durch Faktenchecker und Lektor (bei Fehlern geht es zwei bis drei Runden zurück zum Schreiberling) → und zum Schluss die menschliche Freigabe.
 
 ## Das Buch, das sich selbst aktualisiert (Ereignisgesteuerte Pflege)
 
@@ -92,7 +92,6 @@ Wie dieses Repository aufgebaut ist und wie daraus die Website wird, steht im [�
 
 ## Verwandte Seiten
 
-- [Neue Artikel aus Rohfassungen erstellen](neue-artikel-erstellen.md) – Der redaktionelle Prozess von der Rohfassung zur fertigen Seite.
 
 ---
 

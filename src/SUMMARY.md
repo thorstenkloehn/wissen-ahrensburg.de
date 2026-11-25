@@ -1,7 +1,6 @@
 # Zusammenfassung
 
 [Startseite](hauptseite.md)
-[Neue Artikel](neue-artikel-erstellen.md)
 
 # Ahrensburg – Allgemeines
 
