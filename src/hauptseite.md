@@ -47,17 +47,4 @@ Für aktuelle Anliegen, tagesaktuelle Meldungen, Termine und weiterführende Rec
 
 ---
 
-## Schwesterprojekte
-
-Weitere freie Wissens- und Lernprojekte im selben Verbund:
-
-* [Dokumentensammlung](https://dokument.wissen-ahrensburg.de/) - [Github Projekt](https://github.com/thorstenkloehn/dokument.git)
-* [Mediawiki Ahrensburg](https://mediawiki.wissen-ahrensburg.de/)
-* [Anfänger-Anleitungen](https://anfaenger.wissen-ahrensburg.de/) - [Github Projekt](https://github.com/thorstenkloehn/anfaenger.git)
-* [Admin Handbuch](https://benutzerhandbuch.wissen-ahrensburg.de/)
-* [Installieren](https://installieren.wissen-ahrensburg.de/)
-* [Digitale Dokumentation und Wissenssysteme](https://thorsten.wissen-ahrensburg.de)
-* [CMS](https://wissen.wissen-ahrensburg.de/doc)
----
-
 *Hinweis: Diese Inhalte wurden mit Unterstützung von Künstlicher Intelligenz erstellt und redaktionell überprüft (Transparenzhinweis gemäß Art. 50 EU AI Act).*
