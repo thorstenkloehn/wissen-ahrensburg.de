@@ -54,14 +54,3 @@
 
 - [Datenschutz](datenschutz.md)
 - [Impressum](impressum.md)
-
-# Wie dieses Wiki entsteht
-
-- [Co-Wiki: Mensch & KI](co-wiki.md)
-- [Software für ein großes Wissensprojekt](software-fuer-ein-grosses-wissensprojekt.md)
-
-# OpenWiki – Repository-Dokumentation
-
-- [Überblick](openwiki/overview.md)
-- [Architektur](openwiki/architecture.md)
-- [Source-Map](openwiki/source-map.md)

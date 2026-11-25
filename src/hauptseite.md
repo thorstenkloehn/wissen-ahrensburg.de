@@ -25,7 +25,6 @@ Tauchen Sie direkt in die verschiedenen Kapitel ein:
 * **[Alltag & Leben in Ahrensburg](alltag-leben-in-ahrensburg.md):** Stadtteile im Porträt, Wochenmarkt, Gastronomie, Vereine, Bildung und religiöse Gemeinschaften.
 * **[Natur & Freizeit](natur-freizeit.md):** Das Naturschutzgebiet Ahrensburger Tunneltal, Naherholungsgebiete, Wander- und Radwege sowie Spielplätze.
 * **[Infrastruktur & Wirtschaft](infrastruktur-wirtschaft.md):** Verkehrsanbindung in der Metropolregion Hamburg, Wirtschaftsstandort, Gewerbegebiete und Stadtverwaltung.
-* **[Co-Wiki: Mensch & KI](co-wiki.md):** Einblicke in die redaktionelle Entstehung dieses Wikis als Kooperation zwischen Mensch und KI.
 
 ---
 
